@@ -22,8 +22,8 @@ wechat:
             #早安话语
             title: 早上好呀呀鸭
             #你们的相遇时间
-            meetDate: '1996-06-18'
-            city: 广州
+            meetDate: '2022-07-17'
+            city: 济南
             #居住地点，高德地图api下载查询 https://lbs.amap.com/api/webservice/download
             cityCode: 440100
             constellation: 双子座
